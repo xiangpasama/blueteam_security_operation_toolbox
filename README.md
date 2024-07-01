@@ -45,23 +45,38 @@
 ## 企业安全建设开源情报利剑·导航
 
 ## windows安全基线检查powershell自动化脚本
+
 适用于windows7，windows server2008/2012
+
 适用于windows10/11，windows server2016/2019/2022
+
 ## linux安全基线检查shell自动化脚本
+
 适用于centos6
+
 适用于centos7/8
 
 ## windows安全基线加固powershell自动化脚本
+
 适用于windows7，windows server2008/2012
+
 适用于windows10/11，windows server2016/2019/2022
+
 ## linux安全基线加固shell自动化脚本
+
 适用于centos6
+
 适用于centos7/8
 
 ## windows安全应急响应powershell自动化脚本
+
 适用于windows7，windows server2008/2012
+
 适用于windows10/11，windows server2016/2019/2022
+
 ## linux安全应急响应shell自动化脚本
+
 适用于centos6
+
 适用于centos7/8
 
