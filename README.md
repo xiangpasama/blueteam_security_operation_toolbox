@@ -18,6 +18,10 @@
 
 **零一万物：** https://www.wanzhi.com/
 
+**商汤商量：** https://chat.sensetime.com/wb/home
+
+**百川智能：** https://ying.baichuan-ai.com/chat
+
 **360智脑：** https://chat.360.com/chat/ 
 
 **天工搜索：** https://www.tiangong.cn/
@@ -37,8 +41,8 @@
 ## 病毒逆向自学指南
 ## 开源情报自学指南
 
-## 企业安全建设开源项目之剑·导航
-## 企业安全建设开源情报之剑·导航
+## 企业安全建设开源项目利剑·导航
+## 企业安全建设开源情报利剑·导航
 
 ## windows安全基线检查自动化脚本，适用于windows7，windows server2008/2012
 ## windows安全基线检查自动化脚本，适用于windows10/11，windows server2016/2019/2022
