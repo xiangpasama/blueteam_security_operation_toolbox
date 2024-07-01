@@ -52,7 +52,7 @@
 
 ## linux安全基线检查shell自动化脚本
 
-适用于centos6
+适用于centos5/6
 
 适用于centos7/8
 
@@ -64,7 +64,7 @@
 
 ## linux安全基线加固shell自动化脚本
 
-适用于centos6
+适用于centos5/6
 
 适用于centos7/8
 
@@ -76,7 +76,7 @@
 
 ## linux安全应急响应shell自动化脚本
 
-适用于centos6
+适用于centos5/6
 
 适用于centos7/8
 
