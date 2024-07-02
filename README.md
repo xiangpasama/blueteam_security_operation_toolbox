@@ -30,6 +30,33 @@
 
 **秘塔搜索：** https://metaso.cn/
 
+## AI编程小助理
+
+**iflycode：** https://iflycode.xfyun.cn/
+
+**codegeex：** https://codegeex.cn/zh-CN
+
+**通义灵码：** https://tongyi.aliyun.com/lingma/
+
+**代码小浣熊：** https://raccoon.sensetime.com/code
+
+**baiducomate：** https://comate.baidu.com/zh
+
+**skycode：** https://sky-code.singularity-ai.com/index.html
+
+**codefuse：** https://codefuse.alipay.com/
+
+**fittencode：** https://code.fittentech.com/
+
+**codearts snap：** https://www.huaweicloud.com/product/codeartside/snap.html
+
+**腾讯云AI代码助手：** https://cloud.tencent.com/product/acc
+
+**codewhisperer：** https://aws.amazon.com/cn/codewhisperer/
+
+**codeium：** https://codeium.com/
+
+**github copilot：** https://github.com/features/copilot
 
 
 ## SRC刷洞自学指南
