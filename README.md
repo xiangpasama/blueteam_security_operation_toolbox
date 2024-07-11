@@ -2,6 +2,10 @@
 
 https://gitee.com/xiangpasama/secmandaily/blob/master/README.md
 
+## 中小企业网络安全开源免费建设之道
+
+https://gitee.com/xiangpasama/secmandaily/blob/master/cyber-security-open-source-free
+
 ## windows安全基线检查powershell自动化脚本
 
 适用于windows7/8，windows server2008/2012
