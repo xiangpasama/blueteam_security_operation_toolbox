@@ -1,5 +1,3 @@
-# Enterprise-information-security
-
 ## AI辅助安全运营与编程
 
 https://gitee.com/xiangpasama/secmandaily/blob/master/README.md
