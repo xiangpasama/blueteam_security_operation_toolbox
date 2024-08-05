@@ -1,44 +1,39 @@
-## AI辅助安全运营与编程
+## 威胁情报中心
+```
+1-360威胁情报中心
+https://ti.360.cn/
 
-https://gitee.com/xiangpasama/secmandaily/blob/master/README.md
+2-奇安信威胁情报中心
+https://ti.qianxin.com/
 
-## 中小企业网络安全开源免费建设之道
+3-微步在线威胁情报社区
+x.threatbook.cn/
 
-https://gitee.com/xiangpasama/secmandaily/blob/master/cyber-security-open-source-free
+4-天际友盟安全智能服务平台
+https://redqueen.tj-un.com/IntelHome.html
 
-## windows安全基线检查powershell自动化脚本
+5-启明星辰venuseye威胁情报中心
+https://www.venuseye.com.cn/
 
-适用于windows7/8，windows server2008/2012
+6-绿盟威胁情报中心
+https://ti.nsfocus.com/
 
-适用于windows10/11，windows server2016/2019/2022
+7-安恒威胁情报中心
+https://ti.dbappsecurity.com.cn/
 
-## linux安全基线检查shell自动化脚本
+8-深信服威胁情报中心
+https://wiki.sec.sangfor.com.cn/analysis-platform
 
-适用于centos5/6
+9-安天威胁情报中心
+https://www.antiycloud.com/#/index
 
-适用于centos7/8
+10-谛听威胁情报中心
+https://www.titecting.com/
 
-## windows安全基线加固powershell自动化脚本
+12-virustotal威胁情报中心
+https://www.virustotal.com/gui/home/search
 
-适用于windows7/8，windows server2008/2012
+```
 
-适用于windows10/11，windows server2016/2019/2022
 
-## linux安全基线加固shell自动化脚本
-
-适用于centos5/6
-
-适用于centos7/8
-
-## windows安全应急响应powershell自动化脚本
-
-适用于windows7/8，windows server2008/2012
-
-适用于windows10/11，windows server2016/2019/2022
-
-## linux安全应急响应shell自动化脚本
-
-适用于centos5/6
-
-适用于centos7/8
 
