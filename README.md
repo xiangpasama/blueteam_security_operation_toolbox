@@ -127,10 +127,6 @@ https://src.topsec.com.cn/
 https://qianxin.butian.net/
 6-360SRC
 https://security.360.cn/
-7-统信SRC
-https://src.uniontech.com/
-8-红旗SRC
-https://ssrc.chinaredflag.cn/
 9-微步在线0day收购平台
 https://x.threatbook.com/v5/vulReward
 ```
