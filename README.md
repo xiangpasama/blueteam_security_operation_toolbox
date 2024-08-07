@@ -83,8 +83,8 @@ https://censys.io/
 https://ata.360.cn/detection
 2-微步云沙箱
 https://s.threatbook.cn/
-3-斗象大圣云沙箱检测
-https://sandbox.riskivy.com/detect?type=cloud
+3-Freebuf云沙箱检测
+https://sandbox.freebuf.com/detect?type=cloud
 4-奇安信文件深度分析平台
 https://sandbox.ti.qianxin.com/sandbox/page
 5-河马webshell查杀
