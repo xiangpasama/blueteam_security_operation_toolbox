@@ -1,4 +1,4 @@
-# 企业安全运营工具包2024
+# 企业网络安全运营工具包2024
 
 ### 威胁情报中心
 ```
@@ -138,3 +138,67 @@ https://www.vulbox.com/
 10-教育行业SRC白帽平台
 https://src.sjtu.edu.cn/
 ```
+### AI安全助理
+```
+1-文心一言
+https://yiyan.baidu.com/welcome
+2-通义千问
+https://tongyi.aliyun.com/qianwen/
+3-讯飞星火
+https://xinghuo.xfyun.cn/
+4-智谱清言
+https://chatglm.cn/
+5-腾讯元宝
+https://yuanbao.tencent.com/
+6-抖音豆包
+https://www.doubao.com/
+7-月之暗面
+https://kimi.moonshot.cn/
+8-零一万物
+https://www.wanzhi.com/
+9-商汤商量
+https://chat.sensetime.com/wb/home
+10-百川智能
+https://ying.baichuan-ai.com/chat
+11-360智脑
+https://chat.360.com/chat/
+12-天工搜索
+https://www.tiangong.cn/
+13-秘塔搜索
+https://metaso.cn/
+14-360AI集成版
+https://bot.360.com/
+```
+## AI编程助理
+```
+1-iflycode
+https://iflycode.xfyun.cn/
+2-codegeex
+https://codegeex.cn/zh-CN
+3-通义灵码
+https://tongyi.aliyun.com/lingma/
+4-代码小浣熊
+https://raccoon.sensetime.com/code
+5-baiducomate
+https://comate.baidu.com/zh
+6-豆包marscode
+https://www.marscode.cn/home
+7-codefuse
+https://codefuse.alipay.com/
+8-fittencode
+https://code.fittentech.com/
+9-腾讯云AI代码助手
+https://cloud.tencent.com/product/acc
+10-skycode
+https://sky-code.singularity-ai.com/index.html
+11-codearts snap
+https://www.huaweicloud.com/product/codeartside/snap.html
+12-codewhisperer
+https://aws.amazon.com/cn/codewhisperer/
+```
+
+
+
+
+
+
