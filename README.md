@@ -127,6 +127,12 @@ https://src.topsec.com.cn/
 https://qianxin.butian.net/
 6-360SRC
 https://security.360.cn/
-9-微步在线0day收购平台
+7-微步在线0day收购平台
 https://x.threatbook.com/v5/vulReward
+8-补天白帽平台
+https://www.butian.net/
+9-漏洞盒子白帽平台
+https://www.vulbox.com/
+10-教育行业SRC白帽平台
+https://src.sjtu.edu.cn/
 ```
