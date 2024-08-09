@@ -144,17 +144,19 @@ https://src.sjtu.edu.cn/
 
 #### 免费杀毒统一管理
 ```
-360企业安全云免费版
+1-360企业安全云免费版
 https://saas.360.cn/
-腾讯电脑管家小团队版
+2-腾讯电脑管家小团队版
 https://team.qq.com/site/index.html
-金山毒霸团队版
+3-金山毒霸团队版
 https://team.duba.net/index
 ```
 #### 上网行为管理
 ```
-微步onedns社区版：https://www.onedns.net/publicWelfareVersion
-天机一体化办公社区版：https://tianji.uusec.com/
+1-微步onedns社区版
+https://www.onedns.net/publicWelfareVersion
+2-天机一体化办公社区版
+https://tianji.uusec.com/
 ```
 #### Web应用防火墙
 ```
@@ -251,9 +253,9 @@ https://www.ijinshan.com/
 https://safe.2345.cc/
 9-avast杀毒
 https://www.avast.com/zh-cn/index#pc
-10-avira
+10-avira杀毒
 https://www.avira.com/zh-cn/free-antivirus
-11-clamav
+11-clamav杀毒
 https://www.clamav.net/
 ```
 #### 浏览器
@@ -301,7 +303,15 @@ https://www.mysql.com/products/workbench/
 5-Oracle Database Express Edition
 https://www.oracle.com/database/technologies/appdev/xe.html
 ```
-
+#### 软件商店
+```
+1-奇安信软件下载中心
+https://pc.soft.qianxin.com/
+2-联想应用商店
+https://lestore.lenovo.com/
+3-火绒应用商店
+https://www.huorong.cn/app_store.html
+```
 
 
 
