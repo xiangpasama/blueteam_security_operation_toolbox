@@ -40,6 +40,12 @@ https://opentip.kaspersky.com/?tab=lookup
 https://www.virustotal.com/gui/home/search
 18-IBM威胁情报中心
 https://exchange.xforce.ibmcloud.com/
+19-greynoise威胁情报中心
+https://viz.greynoise.io/
+20-SANS威胁情报中心
+https://isc.sans.edu/
+21-threatminer威胁情报中心
+https://www.threatminer.org/
 ```
 #### 勒索病毒搜索引擎
 ```
@@ -114,7 +120,9 @@ https://aiqicha.baidu.com/
 https://www.qcc.com/
 4-启信宝
 https://www.qixin.com/
-5-国家企业信用信息公示系统
+5-水滴信用
+https://shuidi.cn/
+6-国家企业信用信息公示系统
 http://www.gsxt.gov.cn/index.html
 ```
 #### 安全企业SRC平台
@@ -311,6 +319,10 @@ https://pc.soft.qianxin.com/
 https://lestore.lenovo.com/
 3-火绒应用商店
 https://www.huorong.cn/app_store.html
+4-阿里开源镜像站
+https://developer.aliyun.com/mirror/
+5-中科大开源镜像站
+https://mirrors.ustc.edu.cn/
 ```
 
 
