@@ -180,6 +180,78 @@ https://waf.uusec.com/
 https://waf-ce.chaitin.cn/
 6-锦衣盾
 https://github.com/jx-sec/jxwaf
+7-D盾
+https://www.d99net.net/
+```
+#### 漏洞扫描器
+```
+1-ShuiZe_0x727
+https://github.com/0x727/ShuiZe_0x727
+2-Golin
+https://github.com/selinuxG/Golin
+3-Xray
+https://github.com/chaitin/xray
+4-Goby
+https://gobysec.net/
+5-Yakit
+https://github.com/yaklang/yakit 
+6-TscanPlus
+https://github.com/TideSec/TscanPlus
+7-Viper
+https://github.com/FunnyWolf/Viper
+8-Vscan
+https://github.com/veo/vscan
+9-Linbing
+https://github.com/taomujian/linbing
+10-ONE-FOX集成工具箱
+https://www.one-fox.cn/project.php?id=3
+```
+#### 互联网数据泄露监控
+```
+1-GShark
+https://github.com/madneal/gshark
+2-腾讯云代码暗网数据泄露监测
+https://cloud.tencent.com/document/product/664/36202
+3-零零信安文档代码泄露监测
+https://0.zone/
+```
+#### 钓鱼演练平台
+```
+1-Goblin
+https://github.com/xiecat/goblin
+2-Gophish
+https://github.com/gophish/gophish
+```
+#### 蜜罐威胁监测
+```
+1-Ehoney蜜罐
+https://github.com/seccome/Ehoney
+2-DecoyMini蜜罐
+https://github.com/decoymini/DecoyMini
+3-Hfish蜜罐
+https://hfish.net/
+```
+#### 主机安全检测
+```
+1-服务器安全狗
+https://www.safedog.cn/server_safedog.html
+2-中小网站安全防护平台
+https://waf.islab.cn/#/home/websiteProtection
+3-Wazuh
+https://wazuh.com/install/
+```
+#### 内网流量威胁监测
+```
+1-流影FlowShadow
+https://abyssalfish-os.github.io/
+2-Suricata
+https://suricata.io/
+3-Maltrail
+https://github.com/stamparm/maltrail
+4-Crowdsec
+https://github.com/crowdsecurity/crowdsec
+5-Zeek
+https://zeek.org/
 ```
 ## 三.开源免费安全运维
 
@@ -297,6 +369,8 @@ https://www.wepe.com.cn/
 https://www.bt.cn/new/product_ssh.html
 2-finalshell
 http://www.hostbuf.com/
+3-ishell
+https://ishell.cc/
 ```
 #### 数据库远程工具
 ```
