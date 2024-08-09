@@ -1,6 +1,6 @@
 # 企业网络安全运营工具包2024
 
-##  一.开源安全情报
+##  一.开源免费安全情报
 
 #### 威胁情报中心
 ```
@@ -140,7 +140,7 @@ https://www.vulbox.com/
 10-教育行业白帽平台
 https://src.sjtu.edu.cn/
 ```
-## 二.开源免费项目
+## 二.开源免费安全项目
 
 #### 免费杀毒统一管理
 ```
@@ -171,7 +171,7 @@ https://waf-ce.chaitin.cn/
 6-锦衣盾
 https://github.com/jx-sec/jxwaf
 ```
-## 三.开源免费办公
+## 三.开源免费安全运维
 
 #### AI安全助理
 ```
@@ -233,21 +233,28 @@ https://aws.amazon.com/cn/codewhisperer/
 ```
 #### 杀毒软件
 ```
-腾讯电脑管家
+1-腾讯电脑管家
 https://guanjia.qq.com/
-火绒安全软件
+2-火绒安全软件
 https://www.huorong.cn/
-360杀毒
+3-360杀毒
 https://sd.360.cn/
-联想电脑管家
-微软电脑管家
+4-联想电脑管家
+https://guanjia.lenovo.com.cn/
+5-微软电脑管家
 https://pcmanager.microsoft.com/en-us
-安天杀毒
-金山毒霸
-2345安全卫士
-avast
-avira
-clamav
+6-安天杀毒
+https://vs.antiy.cn/endpoint/anti-virus
+7-金山毒霸
+https://www.ijinshan.com/
+8-2345安全卫士
+https://safe.2345.cc/
+9-avast杀毒
+https://www.avast.com/zh-cn/index#pc
+10-avira
+https://www.avira.com/zh-cn/free-antivirus
+11-clamav
+https://www.clamav.net/
 ```
 #### 浏览器
 ```
