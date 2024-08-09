@@ -1,5 +1,7 @@
 # 企业网络安全运营工具包2024
 
+##  开源安全情报
+
 ### 威胁情报中心
 ```
 1-360威胁情报中心
@@ -138,6 +140,37 @@ https://www.vulbox.com/
 10-教育行业SRC白帽平台
 https://src.sjtu.edu.cn/
 ```
+## 开源免费项目
+### 免费杀毒统一管理
+```
+360企业安全云免费版
+https://saas.360.cn/
+腾讯电脑管家小团队版
+https://team.qq.com/site/index.html
+金山毒霸团队版
+https://team.duba.net/index
+```
+### 上网行为管理
+```
+微步onedns社区版：https://www.onedns.net/publicWelfareVersion
+天机一体化办公社区版：https://tianji.uusec.com/
+```
+### Web应用防火墙
+```
+1-奇安信网站卫士
+https://wangzhan.qianxin.com/
+2-GOODWAF
+https://www.goodwaf.cn/home/article/freeversion.html
+3-网站安全狗
+https://www.safedog.cn/install_desc_website.html
+4-南墙
+https://waf.uusec.com/
+5-雷池SafeLine
+https://waf-ce.chaitin.cn/
+6-锦衣盾
+https://github.com/jx-sec/jxwaf
+```
+## 开源免费办公
 ### AI安全助理
 ```
 1-文心一言
@@ -196,35 +229,4 @@ https://www.huaweicloud.com/product/codeartside/snap.html
 12-codewhisperer
 https://aws.amazon.com/cn/codewhisperer/
 ```
-### 免费杀毒统一管理
-```
-360企业安全云免费版
-https://saas.360.cn/
-腾讯电脑管家小团队版
-https://team.qq.com/site/index.html
-金山毒霸团队版
-https://team.duba.net/index
-```
-### 上网行为管理
-```
-微步onedns社区版：https://www.onedns.net/publicWelfareVersion
-天机一体化办公社区版：https://tianji.uusec.com/
-```
-### Web应用防火墙
-```
-1-奇安信网站卫士
-https://wangzhan.qianxin.com/
-2-GOODWAF
-https://www.goodwaf.cn/home/article/freeversion.html
-3-网站安全狗
-https://www.safedog.cn/install_desc_website.html
-4-南墙
-https://waf.uusec.com/
-5-雷池SafeLine
-https://waf-ce.chaitin.cn/
-6-锦衣盾
-https://github.com/jx-sec/jxwaf
-```
-
-
 
