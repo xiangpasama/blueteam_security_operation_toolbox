@@ -131,13 +131,13 @@ https://src.topsec.com.cn/
 https://qianxin.butian.net/
 6-360SRC
 https://security.360.cn/
-7-微步在线0day收购平台
+7-微步在线0day漏洞平台
 https://x.threatbook.com/v5/vulReward
 8-补天白帽平台
 https://www.butian.net/
 9-漏洞盒子白帽平台
 https://www.vulbox.com/
-10-教育行业SRC白帽平台
+10-教育行业白帽平台
 https://src.sjtu.edu.cn/
 ```
 ## 二.开源免费项目
@@ -263,8 +263,35 @@ https://transmart.qq.com/zh-CN/index
 2-火山翻译
 https://translate.volcengine.com/extension
 ```
-
-
+### 系统重装
+```
+1-MSDN Windows
+https://msdn.itellyou.cn/
+2-Ventoy启动盘
+https://www.ventoy.net/cn/index.html
+3-Wepe工具箱
+https://www.wepe.com.cn/
+```
+### ssh远程工具
+```
+1-堡塔SSH
+https://www.bt.cn/new/product_ssh.html
+2-finalshell
+http://www.hostbuf.com/
+```
+### 数据库远程工具
+```
+1-heidisql
+https://www.heidisql.com/
+2-dbeaver
+https://dbeaver.io/
+3-Oracle SQL Developer
+https://docs.oracle.com/en/database/oracle/sql-developer/index.html
+4-mysql workbench
+https://www.mysql.com/products/workbench/
+5-Oracle Database Express Edition
+https://www.oracle.com/database/technologies/appdev/xe.html
+```
 
 
 
